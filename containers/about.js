@@ -7,7 +7,7 @@ export default class About extends React.Component {
 	render () {
 		return (
 			<div>
-				About
+				<h1>About</h1>
 				<Link to="/">
 					<button>Go Home</button>
 				</Link>
